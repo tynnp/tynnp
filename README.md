@@ -5,8 +5,8 @@
 
 ## Lưu trữ
 - [Practice](https://github.com/tynnp/Practice): Bài giải trên các trang chấm bài tự động.
-- [StudentResearch-ImageDescription](https://github.com/tynnp/StudentResearch-ImageDescription): Nghiên cứu khoa học, mô tả hình ảnh kết hợp Knowledge Graph và Deep Learning.
 - [2411COMP101903_LapTrinhTrenWindows](https://github.com/tynnp/2411COMP101903_LapTrinhTrenWindows): Môn Lập trình trên Windows - HCMUE (thầy Khiết).
 - [2411COMP102403_CacHeCoSoDuLieu](https://github.com/tynnp/2411COMP102403_CacHeCoSoDuLieu): Môn Các hệ cơ sở dữ liệu - HCMUE (thầy Khiết).
 - [COMP1016_CauTrucDuLieu](https://github.com/tynnp/COMP1601_CauTrucDuLieu): Môn Cấu trúc dữ liệu - HCMUE.
+- [StudentResearch-ImageDescription](https://github.com/tynnp/StudentResearch-ImageDescription): Nghiên cứu khoa học, mô tả hình ảnh kết hợp Knowledge Graph và Deep Learning.
 - [Python-Language](https://github.com/tynnp/Python-Language): Tài nguyên lập trình với ngôn ngữ Python.
