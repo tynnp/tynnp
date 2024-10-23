@@ -28,18 +28,19 @@ def open_file():
     file_path = filedialog.askopenfilename(title="Chọn file", filetypes=(("Code files", "*.py;*.cpp;*.txt"), ("All files", "*.*")))
     return file_path
 
-# Hàm tô màu các đoạn code giống nhau 
-def color_code(file_text, file1_lines, file2_lines):
+def color_code(file_text, file_lines, other_file_lines):
     file_text.delete(1.0, tk.END) 
-    matcher = SequenceMatcher(None, file1_lines, file2_lines)
+    matcher = SequenceMatcher(None, file_lines, other_file_lines)
     
-    for tag, i1, i2, j1, j2 in matcher.get_opcodes():
-        text1 = ''.join(file1_lines[i1:i2])
-        
-        if tag == "equal":  
-            file_text.insert(tk.END, text1, "match")
-        else:
-            file_text.insert(tk.END, text1)
+    for i, (tag, i1, i2, j1, j2) in enumerate(matcher.get_opcodes()):
+        for line_num, line_content in enumerate(file_lines[i1:i2], start=i1 + 1):  
+            formatted_line = f"{line_num}: {line_content}"
+            
+            if tag == "equal":  
+                file_text.insert(tk.END, formatted_line, "match")
+            else:
+                file_text.insert(tk.END, formatted_line)
+
 
 def compare_code():
     file1_path = open_file()
