@@ -9,4 +9,5 @@
 - [2411COMP102403_CacHeCoSoDuLieu](https://github.com/tynnp/2411COMP102403_CacHeCoSoDuLieu): Môn Các hệ cơ sở dữ liệu - HCMUE (thầy Khiết).
 - [COMP1016_CauTrucDuLieu](https://github.com/tynnp/COMP1601_CauTrucDuLieu): Môn Cấu trúc dữ liệu - HCMUE.
 - [COMP1017_LapTrinhHuongDoiTuong](https://github.com/tynnp/COMP1017_LapTrinhHuongDoiTuong): Môn Lập trình hướng đối tượng - HCMUE.
+- [SudokuGameWinform](https://github.com/tynnp/SudokuGameWinform): Game Sudoku làm bằng C# Winform. 
 - [StudentResearch-ImageDescription](https://github.com/tynnp/StudentResearch-ImageDescription): Nghiên cứu khoa học, mô tả hình ảnh kết hợp Knowledge Graph và Deep Learning.
