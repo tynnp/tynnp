@@ -12,3 +12,4 @@
 - [SudokuGameWinform](https://github.com/tynnp/SudokuGameWinform): Game Sudoku làm bằng C# Winform.
 - [TictactoeGameConsole](https://github.com/tynnp/TictactoeGameConsole): Game Tic-tac-toe làm bằng C++ Console.  
 - [StudentResearch-ImageDescription](https://github.com/tynnp/StudentResearch-ImageDescription): Nghiên cứu khoa học, mô tả hình ảnh kết hợp Knowledge Graph và Deep Learning.
+- [StealthDataStealer](https://github.com/tynnp/StealthDataStealer): Mã độc chạy ẩn, thu thập và lấy dữ liệu từ máy bị nhiễm.
