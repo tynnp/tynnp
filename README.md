@@ -8,6 +8,5 @@
 - [2411COMP101903_LapTrinhTrenWindows](https://github.com/tynnp/2411COMP101903_LapTrinhTrenWindows): Môn Lập trình trên Windows - HCMUE (thầy Khiết).
 - [2411COMP102403_CacHeCoSoDuLieu](https://github.com/tynnp/2411COMP102403_CacHeCoSoDuLieu): Môn Các hệ cơ sở dữ liệu - HCMUE (thầy Khiết).
 - [COMP1016_CauTrucDuLieu](https://github.com/tynnp/COMP1601_CauTrucDuLieu): Môn Cấu trúc dữ liệu - HCMUE.
-- [COMP1017_LapTrinhHuongDoiTuong](https://github.com/tynnp/COMP1017_LapTrinhHuongDoiTuong): Môn Lập trình hướng đối tượng - HCMUE.
 - [SudokuGameWinform](https://github.com/tynnp/SudokuGameWinform): Game Sudoku làm bằng C# Winform.
 - [TictactoeGameConsole](https://github.com/tynnp/TictactoeGameConsole): Game Tic-tac-toe làm bằng C++ Console.  
