@@ -1,8 +1,9 @@
-## 📞 Thông tin liên lạc
+## 📞 Thông tin cơ bản
 
 - **Họ và tên:** Nguyễn Ngọc Phú Tỷ
 - **Số điện thoại:** 036 414 7912
-- **Gmail cá nhân:** tynnp2002@gmail.com  
+- **Email:** tynnp2002@gmail.com  
+- **Lĩnh vực quan tâm:** An ninh mạng, an toàn thông tin. 
 
 ---
 
