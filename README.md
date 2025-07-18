@@ -10,4 +10,4 @@
 ## 📄 Bài báo khoa học
 
 **Một mô hình mô tả hình ảnh kết hợp đồ thị tri thức và mạng học sâu**  
-*Đăng trên:* *Tạp chí Khoa học và Công nghệ – Đại học Thái Nguyên*, Số 230(07), tr. 153–159, ngày 27/06/2025. [Xem bản PDF](https://drive.google.com/file/d/15ucdiNy73PfE_N6HGwQKgWaO0Egk54Zh/view?usp=sharing).
+*Đăng trên:* *Tạp chí Khoa học và Công nghệ – Đại học Thái Nguyên*, Số 230(07), tr. 153–159, ngày 27/06/2025. DOI: (https://doi.org/10.34238/tnu-jst.12614)[https://doi.org/10.34238/tnu-jst.12614].
