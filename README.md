@@ -2,8 +2,8 @@
 
 - **Họ và tên:** Nguyễn Ngọc Phú Tỷ
 - **Số điện thoại:** 036 414 7912
-- **Email:** tynnp2002@gmail.com  
-- **Lĩnh vực quan tâm:** Khoa học máy tính. 
+- **Email:** tynnp.dhsp@gmail.com  
+- **Lĩnh vực quan tâm:** Trí tuệ nhân tạo, An toàn thông tin, Khoa học máy tính. 
 
 ---
 
