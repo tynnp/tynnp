@@ -220,6 +220,4 @@ Tôi luôn sẵn sàng cho những dự án sáng tạo, cơ hội hợp tác ng
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
