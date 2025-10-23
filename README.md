@@ -117,29 +117,6 @@ Ngày: 27/06/2025
 </tr>
 </table>
 
-### Cybersecurity & Penetration Testing
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Metasploit"/>
-<br>Metasploit
-</td>
-<td align="center" width="25%">
-<img src="https://www.wireshark.org/assets/icons/wireshark.png" width="65" height="65" alt="Wireshark"/>
-<br>Wireshark
-</td>
-<td align="center" width="25%">
-<img src="https://portswigger.net/burp/images/burp-suite-logo.svg" width="65" height="65" alt="Burp Suite"/>
-<br>Burp Suite
-</td>
-<td align="center" width="25%">
-<img src="https://www.zaproxy.org/img/zap256x256.png" width="65" height="65" alt="OWASP ZAP"/>
-<br>OWASP ZAP
-</td>
-</tr>
-</table>
-
 ### Web Development & Databases
 
 <table>
