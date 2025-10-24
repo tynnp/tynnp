@@ -71,19 +71,27 @@ Ngày: 27/06/2025
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
 <br>C++
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+<br>C#
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br>Java
+</td>
+<td align="center" width="20%">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
 <br>Python
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
 <br>JavaScript
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
 <br>TypeScript
 </td>
@@ -121,31 +129,35 @@ Ngày: 27/06/2025
 
 <table>
 <tr>
-<td align="center" width="14.28%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65" height="65" alt="React"/>
+<td align="center" width="12.5%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
 <br>React
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js"/>
 <br>Node.js
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="65" height="65" alt="Express"/>
 <br>Express
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind"/>
 <br>Tailwind
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL"/>
 <br>PostgreSQL
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB"/>
 <br>MongoDB
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="65" height="65" alt="Neo4j"/>
+<br>Neo4j
+</td>
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="65" height="65" alt="Redis"/>
 <br>Redis
 </td>
@@ -159,6 +171,10 @@ Ngày: 27/06/2025
 <td align="center" width="25%">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
 <br>Docker
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+<br>Kubernetes
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/>
