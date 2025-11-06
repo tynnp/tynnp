@@ -5,13 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Cybersecurity+Researcher;AI+%26+Web+Developer)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="mailto:tynnp.dhsp@gmail.com">
+  <a href="mailto:tynnp.dhsp@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-tynnp.dhsp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tynnp">
+  <a href="https://github.com/tynnp" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-%40tynnp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="tel:0364147912">
@@ -226,13 +226,13 @@ Còn Web Development là nơi tôi thư giãn bằng việc xây dựng các ứ
 Tôi luôn sẵn sàng cho những dự án sáng tạo, cơ hội hợp tác nghiên cứu, hoặc chỉ đơn giản là một cuộc trò chuyện thú vị về công nghệ. Nếu bạn quan tâm, hãy kết nối cùng tôi qua các kênh:
 
 <p align="center">
-  <a href="mailto:tynnp.dhsp@gmail.com">
+  <a href="mailto:tynnp.dhsp@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/tynnp">
+  <a href="https://github.com/tynnp" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="tel:0364147912">
+  <a href="tel:0364147912" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </p>
