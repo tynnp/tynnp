@@ -193,13 +193,15 @@ Ngày: 27/06/2025
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tynnp&layout=compact&langs_count=8&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=2D9EF7&text_color=C9D1D9"/>
+<img width="47.7%" src="https://github-readme-stats.vercel.app/api?username=tynnp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2D9EF7&text_color=C9D1D9&icon_color=2D9EF7&count_private=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tynnp&theme=tokyo-night"/>
+<img width="50.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=tynnp&theme=tokyonight&hide_border=true&background=0D1117&ring=2D9EF7&fire=2D9EF7&currStreakLabel=2D9EF7" />
 
-</div>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tynnp&theme=tokyonight&hide_border=true&background=0D1117&ring=2D9EF7&fire=2D9EF7&currStreakLabel=2D9EF7" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tynnp&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2D9EF7&line=2D9EF7&point=C9D1D9"/>
+
+<div/>
 
 ## Hướng nghiên cứu
 
