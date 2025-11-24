@@ -197,8 +197,6 @@ Ngày: 27/06/2025
 
 <img width="50.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=tynnp&theme=tokyonight&hide_border=true&background=0D1117&ring=2D9EF7&fire=2D9EF7&currStreakLabel=2D9EF7" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tynnp&theme=tokyonight&hide_border=true&background=0D1117&ring=2D9EF7&fire=2D9EF7&currStreakLabel=2D9EF7" />
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tynnp&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2D9EF7&line=2D9EF7&point=C9D1D9"/>
 
 </div>
