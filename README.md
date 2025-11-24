@@ -119,39 +119,58 @@ Ngày: 27/06/2025
 </tr>
 </table>
 
-### Web Development & Databases
+### Web Development
 
 <table>
 <tr>
-<td align="center" width="12.5%">
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="65" height="65" alt="FastAPI"/>
+<br>FastAPI
+</td>
+<td align="center" width="25%">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
 <br>React
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/>
+<br>Next.js
+</td>
+<td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js"/>
 <br>Node.js
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="65" height="65" alt="Express"/>
 <br>Express
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind"/>
 <br>Tailwind
 </td>
-<td align="center" width="12.5%">
+</tr>
+</table>
+
+### Databases
+
+<table>
+<tr>
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL"/>
 <br>PostgreSQL
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL"/>
+<br>MySQL
+</td>
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB"/>
 <br>MongoDB
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="65" height="65" alt="Neo4j"/>
 <br>Neo4j
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="65" height="65" alt="Redis"/>
 <br>Redis
 </td>
