@@ -19,11 +19,9 @@
 
 ## Giới thiệu
 
-Tôi là một lập trình viên thích… cãi nhau với máy tính. Thỉnh thoảng tôi thắng, còn phần lớn thì không. Tôi dành thời gian mày mò giữa ba thế giới: An ninh mạng, Trí tuệ nhân tạo, và Phát triển Web. Vì rõ ràng chỉ một cái thôi là quá nhàm chán.
+Tôi là một lập trình viên quan tâm đến mạng máy tính, trí tuệ nhân tạo và phát triển ứng dụng. Xuất phát từ lập trình thi đấu, tôi có nền tảng về thuật toán và tư duy giải quyết vấn đề. 
 
-Xuất phát từ nền tảng Lập trình thi đấu, tôi học được cách làm bạn với thuật toán (dù đôi khi chúng hơi khó chịu). Giờ tôi cố gắng áp dụng những gì học được để tạo ra các hệ thống bảo mật thông minh hơn, mô hình AI có ích hơn, và các ứng dụng web chạy nhanh hơn (ít nhất là trên máy tôi).
-
-Tôi tin rằng lý thuyết hay đến đâu cũng cần được thử trong thực tế và ngược lại, thực tế đôi khi lại là cách tốt nhất để kiểm chứng lý thuyết sai như thế nào.
+Hiện tại, tôi cố gắng áp dụng kiến thức lý thuyết vào thực tế để xây dựng các hệ thống, mô hình AI và ứng dụng thiết thực, hiệu quả hơn cho cuộc sống. Với tôi, học hỏi là một quá trình lâu dài, cần sự kiên nhẫn, nổ lực không ngừng để tiến bộ từng bước.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -219,14 +217,6 @@ Ngày: 27/06/2025
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tynnp&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2D9EF7&line=2D9EF7&point=C9D1D9"/>
 
 </div>
-
-## Hướng nghiên cứu
-
-Về Cybersecurity, tôi tập trung tìm hiểu các hướng tấn công và kỹ thuật xâm nhập mạng, vừa để hiểu rõ cách hệ thống bị khai thác, vừa để học cách phòng thủ hiệu quả hơn. Có thể nói đây là quá trình học hỏi từ những sai lầm của server và đôi khi là của chính tôi.
-
-Trong AI, tôi nghiên cứu các phương pháp cải tiến mô hình LLM thông qua fine tuning và RAG, đồng thời phát triển các mô hình Thị giác máy tính phục vụ ứng dụng thực tế. Mục tiêu là giúp máy tính hiểu thế giới tốt hơn, hoặc là giả vờ hiểu cho thuyết phục.
-
-Còn Web Development là nơi tôi thư giãn bằng việc xây dựng các ứng dụng full stack nho nhỏ. Tôi vẫn kiên nhẫn tối ưu hiệu năng, dù đôi khi chỉ cần hệ thống chịu chạy là đã xem như thành công.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
