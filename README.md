@@ -129,35 +129,39 @@ Ngày: 27/06/2025
 
 <table>
 <tr>
-<td align="center" width="12.5%">
+<td align="center" width="11.11%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="65" height="65" alt="FastAPI"/>
 <br>FastAPI
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="11.11%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="65" height="65" alt="Laravel"/>
 <br>Laravel
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="11.11%">
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API"/>
 <br>REST API
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="11.11%">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
 <br>React
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="11.11%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/>
 <br>Next.js
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="11.11%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" width="65" height="65" alt="Tauri"/>
+<br>Tauri
+</td>
+<td align="center" width="11.11%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js"/>
 <br>Node.js
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="11.11%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="65" height="65" alt="Express"/>
 <br>Express
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="11.11%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind"/>
 <br>Tailwind
 </td>
