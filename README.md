@@ -172,27 +172,31 @@ Ngày: 27/06/2025
 
 <table>
 <tr>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL"/>
 <br>PostgreSQL
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL"/>
 <br>MySQL
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="65" height="65" alt="SQL Server"/>
+<br>SQL Server
+</td>
+<td align="center" width="14.28%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="SQLite"/>
 <br>SQLite
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB"/>
 <br>MongoDB
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="65" height="65" alt="Neo4j"/>
 <br>Neo4j
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="65" height="65" alt="Redis"/>
 <br>Redis
 </td>
