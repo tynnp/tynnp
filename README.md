@@ -63,29 +63,37 @@ Ngày: 27/06/2025
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="12.5%">
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
 <br>C++
 </td>
-<td align="center" width="20%">
+<td align="center" width="12.5%">
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
 <br>C#
 </td>
-<td align="center" width="20%">
+<td align="center" width="12.5%">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
 <br>Java
 </td>
-<td align="center" width="20%">
+<td align="center" width="12.5%">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
 <br>Python
 </td>
-<td align="center" width="20%">
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+<br>PHP
+</td>
+<td align="center" width="12.5%">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
 <br>JavaScript
 </td>
-<td align="center" width="20%">
+<td align="center" width="12.5%">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
 <br>TypeScript
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="65" height="65" />
+<br>Rust
 </td>
 </tr>
 </table>
@@ -121,27 +129,35 @@ Ngày: 27/06/2025
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="65" height="65" alt="FastAPI"/>
 <br>FastAPI
 </td>
-<td align="center" width="25%">
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="65" height="65" alt="Laravel"/>
+<br>Laravel
+</td>
+<td align="center" width="12.5%">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API"/>
+<br>REST API
+</td>
+<td align="center" width="12.5%">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
 <br>React
 </td>
-<td align="center" width="25%">
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/>
 <br>Next.js
 </td>
-<td align="center" width="25%">
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js"/>
 <br>Node.js
 </td>
-<td align="center" width="25%">
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="65" height="65" alt="Express"/>
 <br>Express
 </td>
-<td align="center" width="25%">
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind"/>
 <br>Tailwind
 </td>
@@ -152,23 +168,27 @@ Ngày: 27/06/2025
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL"/>
 <br>PostgreSQL
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL"/>
 <br>MySQL
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="SQLite"/>
+<br>SQLite
+</td>
+<td align="center" width="16.66%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB"/>
 <br>MongoDB
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="65" height="65" alt="Neo4j"/>
 <br>Neo4j
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="65" height="65" alt="Redis"/>
 <br>Redis
 </td>
@@ -179,23 +199,31 @@ Ngày: 27/06/2025
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
 <br>Docker
 </td>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
 <br>Kubernetes
 </td>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+<br>Nginx
+</td>
+<td align="center" width="14.28%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/>
 <br>Linux
 </td>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1200px-UbuntuCoF.svg.png" width="65" height="65" alt="Ubuntu"/>
+<br>Ubuntu
+</td>
+<td align="center" width="14.28%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="65" height="65" alt="Git"/>
 <br>Git
 </td>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 <br>GitHub
 </td>
