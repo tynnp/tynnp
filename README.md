@@ -107,6 +107,10 @@ Ngày: 27/06/2025
 <br>TensorFlow
 </td>
 <td align="center" width="200">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="65" height="65" alt="Keras"/>
+<br>Keras
+</td>
+<td align="center" width="200">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="65" height="65" alt="PyTorch"/>
 <br>PyTorch
 </td>
@@ -115,12 +119,20 @@ Ngày: 27/06/2025
 <br>Scikit-learn
 </td>
 <td align="center" width="200">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="65" height="65" alt="OpenCV"/>
-<br>OpenCV
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy"/>
+<br>NumPy
 </td>
 <td align="center" width="200">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas"/>
 <br>Pandas
+</td>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="65" height="65" alt="OpenCV"/>
+<br>OpenCV
+</td>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="65" height="65" alt="Matplotlib"/>
+<br>Matplotlib
 </td>
 </tr>
 </table>
