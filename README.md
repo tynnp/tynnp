@@ -2,7 +2,7 @@
 
 # Nguyễn Ngọc Phú Tỷ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Cybersecurity+Researcher;AI+%26+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AI+%26+Web+Developer;Competitive+Programmer)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:tynnp.dhsp@gmail.com"><img src="https://img.shields.io/badge/Email-tynnp.dhsp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -16,14 +16,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
-
-## Giới thiệu
-
-Tôi là một lập trình viên quan tâm đến mạng máy tính, trí tuệ nhân tạo và phát triển ứng dụng. Xuất phát từ lập trình thi đấu, tôi có nền tảng về thuật toán và tư duy giải quyết vấn đề. 
-
-Hiện tại, tôi cố gắng áp dụng kiến thức lý thuyết vào thực tế để xây dựng các hệ thống, mô hình AI và ứng dụng thiết thực, hiệu quả hơn cho cuộc sống. Với tôi, học hỏi là một quá trình lâu dài, cần sự kiên nhẫn, nổ lực không ngừng để tiến bộ từng bước.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Nghiên cứu & Công trình khoa học
 
@@ -272,7 +264,7 @@ Ngày: 27/06/2025
 
 <div align="center">
 
-Tôi luôn sẵn sàng cho những dự án sáng tạo, cơ hội hợp tác nghiên cứu, hoặc chỉ đơn giản là một cuộc trò chuyện thú vị về công nghệ. Nếu bạn quan tâm, hãy kết nối cùng tôi qua các kênh:
+Tôi luôn sẵn sàng cho những dự án sáng tạo, cơ hội hợp tác nghiên cứu, hoặc chỉ đơn giản là một cuộc trò chuyện thú vị về công nghệ. Nếu bạn quan tâm, hãy kết nối cùng tôi qua các kênh bên dưới
 
 <p align="center">
   <a href="mailto:tynnp.dhsp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
