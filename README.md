@@ -2,7 +2,7 @@
 
 # Nguyễn Ngọc Phú Tỷ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AI+%26+Web+Developer;Competitive+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AI+Engineer;Fullstack+Developer;Tester)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:tynnp.dhsp@gmail.com"><img src="https://img.shields.io/badge/Email-tynnp.dhsp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
