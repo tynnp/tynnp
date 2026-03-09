@@ -27,4 +27,8 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tynnp&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2D9EF7&line=2D9EF7&point=C9D1D9"/>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tynnp&style=for-the-badge&color=2D9EF7&label=Profile+Views" alt="Profile Views"/>
+</p>
+
 </div>
